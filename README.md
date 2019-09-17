@@ -1,3 +1,3 @@
 #Git demo
-Git demonstration
+Git demonstration\n
 Ready to upload
